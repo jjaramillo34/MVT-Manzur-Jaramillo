@@ -4,7 +4,7 @@ http://localhost:8000/family_members/all-members/
 
 # All Family Members View
 
-![picture 1](images/4e1c0d420e54e3b5dd023666a240364a2166cf6f9167cf9d33b14017650ae3c0.png)
+![picture 3](images/0d401935c9601a03b448b16705dd603210df01624bb43056cb78b3eb23555203.png)  
 
 # Get Family Member View
 
